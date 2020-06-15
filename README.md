@@ -1,7 +1,7 @@
 
 # 2020-06-15
 
-This was created to document a mini fix for Windows Build 19041 WSL2 DNS issue, and also for the need to repeat these DNS settings for every new distro created inside WSL2 for now.
+This was created to document a mini fix for Windows Build 19041 WSL2 DNS issue at https://github.com/microsoft/WSL/issues/4275, and also for the need to repeat these DNS settings for every new distro created inside WSL2 for now.
 
 I have set these to OpenDNS/Cisco Umbrella, you can change accordingly.
 
